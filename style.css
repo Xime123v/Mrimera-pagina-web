@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  body{
+    background:url("../images/fondo.jpg") no-repeat;
+    background-color: rgb(26, 29, 206);
+    background-position:-1100px 0;
+    background-attachment: fixed;
+    /* background-size: cover; */
+  }
+  
+  main{
+    background:rgba(255,255,255,0.8);
+    border-radius: 25px;
+    padding:20px;
+    margin: 50px;
+  }
+  
+  section{
+    border: 1px solid rgb(255, 81, 0);
+    border-radius: 15px;
+    padding: 10px;
+    margin: 20px;
+  }
+  
+  h1{
+    color: #FFF;
+    border-radius: 15px;
+    background: rgb(37, 3, 137);
+    padding: 20px;
+    margin: 0 0 20px 0;
+  }
+  
+  #portada{
+    width: 200px;
+    height:200px;
+    float: left;
+  }
+  
+  .foto2{
+    float: right;
+    width:300px;
+    height:400px;
+   
+  }
+  
+  .negro{
+    color: rgb(197, 13, 243);
+  }
+  
+  .fotos{
+    background: #170acb;
+    width: 600px;
+    height: 500px;
+    
+  }
+  
+  .vacio{
+    padding: 1px;
+    background: rgb(48, 241, 27);
+  }
+  
+  .img-float{
+    float: right;
+  }
+  
+  .juego{
+    width: 100px;
+    height: 100px;
+  }
+
+  .txt-float{
+    float: left;
+    width: 500px;
+    padding: 100px 0 0 0;
+  }
+  
+  .clear{
+    clear:both;
+  }
+
+  
